@@ -1,0 +1,5 @@
+dist/
+node_modules/*
+tsconfig-paths-bootstrap.js
+jest.config.js
+docker-compose*
